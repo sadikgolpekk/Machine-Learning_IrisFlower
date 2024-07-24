@@ -1,7 +1,7 @@
 # Gerekli kütüphaneleri yüklüyoruz
 from sklearn.datasets import load_iris  # scikit-learn kütüphanesinden iris veri setini yükler
-from sklearn.model_selection import train_test_split  # Veri setini eğitim ve test setlerine ayırmak için kullanılır
-from sklearn.neighbors import KNeighborsClassifier  # K-En Yakın Komşu sınıflandırıcı modelini içeren sınıf
+from sklearn.model_selection import train_test_split  # Veri setini eğitim ve test setlerine ayırmak için kullanılır.Bir fonksiyon
+from sklearn.neighbors import KNeighborsClassifier  # Algortimamızın modelini içeren sınıf
 import numpy as np  # Sayısal hesaplamalar ve veri işlemleri için kullanılır
 
 # K-En Yakın Komşu sınıflandırıcı modelini oluşturuyoruz
