@@ -24,6 +24,11 @@ Proje aşağıdaki adımları içermektedir:
 4. Yeni bir veri noktası için sınıflandırma tahmini yapılması.
 5. Modelin doğruluğunun hesaplanması ve sonuçların değerlendirilmesi.
 
+## Veri Setinin Eğitim ve Test Setlerine Bölünmesi
+
+Veri seti, projeyi eğitmek ve test etmek için varsayılan olarak %75 eğitim ve %25 test setleri olarak rastgele bölünmüştür. Bu bölme oranları genellikle kullanılan standart bir uygulamadır. Eğitim seti, modelin öğrenmesi için kullanılan veri parçalarını içerirken, test seti modelin genel performansını değerlendirmek için ayrılmıştır.
+
+
 ## Gereksinimler
 
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç vardır:
@@ -32,4 +37,10 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç 
 - numpy
 
 Gerekli kütüphaneleri yüklemek için terminal veya komut istemcisinde şu komutları kullanabilirsiniz:
+
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [MIT Lisansı](LICENSE) dosyasına göz atabilirsiniz.
+
 
