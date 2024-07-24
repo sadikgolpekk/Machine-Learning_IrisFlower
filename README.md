@@ -36,8 +36,6 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç 
 - scikit-learn
 - numpy
 
-Gerekli kütüphaneleri yüklemek için terminal veya komut istemcisinde şu komutları kullanabilirsiniz:
-
 
 ## Lisans
 
